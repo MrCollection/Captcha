@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Captcha", "Captcha", "{4C0F1244-DC12-47B7-BAE2-357C11EB91CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MrCollection.Captcha", "captcha\MrCollection.Captcha\MrCollection.Captcha.csproj", "{C1FD704B-9469-46E2-A4DC-0DD18A84F14B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1FD704B-9469-46E2-A4DC-0DD18A84F14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1FD704B-9469-46E2-A4DC-0DD18A84F14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1FD704B-9469-46E2-A4DC-0DD18A84F14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1FD704B-9469-46E2-A4DC-0DD18A84F14B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C1FD704B-9469-46E2-A4DC-0DD18A84F14B} = {4C0F1244-DC12-47B7-BAE2-357C11EB91CB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1463A8DB-EAF8-412D-AA21-98A6205562E3}
+	EndGlobalSection
+EndGlobal
